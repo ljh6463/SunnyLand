@@ -1,1 +1,266 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T08:20:21.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yGm3JRr3sJ2Kl2ZWtT6M" version="21.0.2" type="github"><diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-01T09:42:13.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="uqcW6rQzoWbUrSy8E5oK" version="21.0.2" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="1571" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="start" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="创建线程池pool&lt;br&gt;创建users数组" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240.5" y="130" width="159" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="创建用于监听的socket&lt;br&gt;int listenfd = socket" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="190" width="169.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="true?" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270.75" y="520" width="98" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="3" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="329.25" y="570" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontColor=#001933;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="6" target="4" edge="1">
+          <mxGeometry width="100" height="100" as="geometry">
+            <mxPoint y="100" as="sourcePoint" />
+            <mxPoint x="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="no 即不是lfd是读事件" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
+          <mxGeometry x="466" y="850" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;startArrow=none;" parent="1" edge="1">
+          <mxGeometry x="4" y="57" width="100" height="100" as="geometry">
+            <mxPoint x="320" y="817" as="sourcePoint" />
+            <mxPoint x="320" y="837" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40" value="end" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="259.74" y="1150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;entryPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" target="40" edge="1">
+          <mxGeometry x="-0.26" y="-760" width="100" height="100" as="geometry">
+            <mxPoint x="320" y="1090" as="sourcePoint" />
+            <mxPoint x="99.74000000000001" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.095;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ogRnIA-VlkdB2omSrmeh-84" target="ogRnIA-VlkdB2omSrmeh-90" edge="1">
+          <mxGeometry width="100" height="100" as="geometry">
+            <mxPoint x="180" y="700" as="sourcePoint" />
+            <mxPoint x="200" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="940" />
+              <mxPoint x="90" y="240" />
+              <mxPoint x="120" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-56" value="创建地址 address&lt;br&gt;设置端口复用&lt;br&gt;setsockopt" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="252" width="169.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-57" value="绑定socket和地址&lt;br&gt;bind" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226.25" y="324" width="169.5" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-58" value="用listenfd监听" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221.5" y="387" width="178" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-59" value="创建epoll对象&lt;br&gt;int epollfd = epoll_create&lt;br&gt;把listenfd注册到epoll中&lt;br&gt;创建events数组" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="196.5" y="436.5" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-60" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="233" as="sourcePoint" />
+            <mxPoint x="320" y="253" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-61" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319" y="301" as="sourcePoint" />
+            <mxPoint x="319" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-62" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="363" as="sourcePoint" />
+            <mxPoint x="320" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-63" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319" y="414" as="sourcePoint" />
+            <mxPoint x="319" y="437" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-64" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319" y="497" as="sourcePoint" />
+            <mxPoint x="319" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-67" value="i&amp;lt;number?" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271.25" y="760.5" width="98" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-73" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="328.75" y="813" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-78" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;startArrow=none;" edge="1" parent="1">
+          <mxGeometry x="3.6399999999999864" y="-41.5" width="100" height="100" as="geometry">
+            <mxPoint x="319.64" y="718.5" as="sourcePoint" />
+            <mxPoint x="320" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-80" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="326.75" y="902" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;startArrow=none;" edge="1" parent="1">
+          <mxGeometry x="4" y="148" width="100" height="100" as="geometry">
+            <mxPoint x="320" y="908" as="sourcePoint" />
+            <mxPoint x="320" y="928" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-82" value="建立连接&lt;br&gt;accept&lt;br&gt;返回connfd" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="928" width="173.75" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-83" value="初始化该连接&lt;br&gt;users[connfd].init" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224.12" y="993" width="173.75" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-84" value="number&amp;lt;0&lt;br&gt;errno!=EINTR" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255.12" y="673.5" width="129.25" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-85" value="yes 即 有error" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="177" y="680" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-86" value="主线程从sockfd读数据&lt;br&gt;read()" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="908.5" width="180" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-87" value="no 即 不是lfd是写事件" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="149" y="850" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-88" value="加入工作队列&lt;br&gt;pool-&amp;gt;append" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="963" width="173.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-89" value="主线程写入数据&lt;br&gt;write()" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="908.5" width="180" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-90" value="关闭epollfd&lt;br&gt;关闭listenfd&lt;br&gt;释放users&lt;br&gt;释放pool" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1070" width="153.75" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-91" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;startArrow=none;" edge="1" parent="1">
+          <mxGeometry x="2.6399999999999864" y="-110.5" width="100" height="100" as="geometry">
+            <mxPoint x="318.64" y="649.5" as="sourcePoint" />
+            <mxPoint x="318.64" y="674.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" value="监听事件 - epoll_wait&lt;br&gt;事件存储在events中&lt;br&gt;返回事件个数number" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="226.25" y="600" width="173.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-92" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;startArrow=none;" edge="1" parent="1">
+          <mxGeometry x="3" y="212" width="100" height="100" as="geometry">
+            <mxPoint x="319" y="972" as="sourcePoint" />
+            <mxPoint x="319" y="992" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-93" value="no 即 没有error &lt;br&gt;挨着处理事件" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" vertex="1" parent="1">
+          <mxGeometry x="349.37" y="725" width="40" height="23.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-94" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="ogRnIA-VlkdB2omSrmeh-79">
+          <mxGeometry x="10" y="27" width="100" height="100" as="geometry">
+            <mxPoint x="265" y="729" as="sourcePoint" />
+            <mxPoint x="150" y="908.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="887" />
+              <mxPoint x="130" y="997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-79" value="取sockfd&lt;br&gt;sockfd==listenfd?" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.13" y="838" width="187.75" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-95" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ogRnIA-VlkdB2omSrmeh-79">
+          <mxGeometry x="399.75" y="26.5" width="100" height="100" as="geometry">
+            <mxPoint x="616.75" y="872.5" as="sourcePoint" />
+            <mxPoint x="520" y="907" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="887" />
+              <mxPoint x="534.75" y="876.5" />
+              <mxPoint x="519.75" y="996.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-96" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;startArrow=none;" edge="1" parent="1">
+          <mxGeometry x="202" y="183" width="100" height="100" as="geometry">
+            <mxPoint x="518" y="943" as="sourcePoint" />
+            <mxPoint x="518" y="963" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-97" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
+          <mxGeometry x="71.75" y="174" width="100" height="100" as="geometry">
+            <mxPoint x="100" y="907" as="sourcePoint" />
+            <mxPoint x="270" y="787" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="707" />
+              <mxPoint x="161.75" y="414" />
+              <mxPoint x="191.75" y="1144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-98" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.871;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ogRnIA-VlkdB2omSrmeh-88" target="ogRnIA-VlkdB2omSrmeh-67">
+          <mxGeometry x="391.75" y="241" width="100" height="100" as="geometry">
+            <mxPoint x="600" y="957" as="sourcePoint" />
+            <mxPoint x="591" y="633" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="601" y="767" />
+              <mxPoint x="620" y="727" />
+              <mxPoint x="620" y="727" />
+              <mxPoint x="481.75" y="481" />
+              <mxPoint x="511.75" y="1211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-99" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.905;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.791;entryY=0.759;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ogRnIA-VlkdB2omSrmeh-83" target="ogRnIA-VlkdB2omSrmeh-67">
+          <mxGeometry x="401.75" y="251" width="100" height="100" as="geometry">
+            <mxPoint x="611" y="973" as="sourcePoint" />
+            <mxPoint x="370" y="787" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="797" />
+              <mxPoint x="630" y="737" />
+              <mxPoint x="630" y="737" />
+              <mxPoint x="491.75" y="491" />
+              <mxPoint x="521.75" y="1221" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-101" value="i++" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="102" y="884.5" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-103" value="i++" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="577" y="940" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-105" value="i++" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="388" y="1011" width="40" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-107" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.731;exitY=0.256;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ogRnIA-VlkdB2omSrmeh-67" target="6">
+          <mxGeometry x="461.5" y="-21.5" width="100" height="100" as="geometry">
+            <mxPoint x="370" y="760" as="sourcePoint" />
+            <mxPoint x="408.75" y="531.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="479.75" y="524.5" />
+              <mxPoint x="689.75" y="464.5" />
+              <mxPoint x="689.75" y="464.5" />
+              <mxPoint x="551.5" y="218.5" />
+              <mxPoint x="581.5" y="948.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogRnIA-VlkdB2omSrmeh-109" value="break 跳出" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="177" y="697" width="40" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
